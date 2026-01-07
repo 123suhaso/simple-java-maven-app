@@ -70,7 +70,7 @@
         <version>3.1.0</version>
         <configuration>
           <repositoryId>nexus-releases</repositoryId>
-          <url>http://13.60.33.64:8081/repository/java-package-private/</url>
+          <url>http://51.20.2.150:8081/repository/java-package-private/</url>
         </configuration>
       </plugin>
     </plugins>
@@ -80,7 +80,7 @@
     <!-- Repository for Release Versions -->
     <repository>
       <id>nexus-releases</id>
-      <url>http://13.60.33.64:8081/repository/java-package-private/</url>
+      <url>http://51.20.2.150:8081/repository/java-package-private/</url>
     </repository>
   </distributionManagement>
 
